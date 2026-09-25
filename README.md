@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AARYANG0SWAMI/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-38-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-39-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -37,6 +37,7 @@
 | 1295 | [Find Numbers With Even Number Of Digits](Easy/1295-find-numbers-with-even-number-of-digits/) | `Easy` | [`Java`](Easy/1295-find-numbers-with-even-number-of-digits/find-numbers-with-even-number-of-digits.java) |
 | 1342 | [Number Of Steps To Reduce A Number To Zero](Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) | `Easy` | [`Java`](Easy/1342-number-of-steps-to-reduce-a-number-to-zero/number-of-steps-to-reduce-a-number-to-zero.java) |
 | 1431 | [Kids With The Greatest Number Of Candies](Easy/1431-kids-with-the-greatest-number-of-candies/) | `Easy` | [`Java`](Easy/1431-kids-with-the-greatest-number-of-candies/kids-with-the-greatest-number-of-candies.java) |
+| 1539 | [Kth Missing Positive Number](Easy/1539-kth-missing-positive-number/) | `Easy` | [`Java`](Easy/1539-kth-missing-positive-number/kth-missing-positive-number.java) |
 | 1672 | [Richest Customer Wealth](Easy/1672-richest-customer-wealth/) | `Easy` | [`Java`](Easy/1672-richest-customer-wealth/richest-customer-wealth.java) |
 | 1920 | [Build Array From Permutation](Easy/1920-build-array-from-permutation/) | `Easy` | [`Java`](Easy/1920-build-array-from-permutation/build-array-from-permutation.java) |
 | 1929 | [Concatenation Of Array](Easy/1929-concatenation-of-array/) | `Easy` | [`Java`](Easy/1929-concatenation-of-array/concatenation-of-array.java) |
