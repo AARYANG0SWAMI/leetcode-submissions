@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AARYANG0SWAMI/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-37-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-38-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -27,6 +27,7 @@
 | 242 | [Valid Anagram](Easy/0242-valid-anagram/) | `Easy` | [`Java`](Easy/0242-valid-anagram/valid-anagram.java) |
 | 258 | [Add Digits](Easy/0258-add-digits/) | `Easy` | [`Java`](Easy/0258-add-digits/add-digits.java) |
 | 268 | [Missing Number](Easy/0268-missing-number/) | `Easy` | [`Java`](Easy/0268-missing-number/missing-number.java) |
+| 278 | [First Bad Version](Easy/0278-first-bad-version/) | `Easy` | [`Java`](Easy/0278-first-bad-version/first-bad-version.java) |
 | 367 | [Valid Perfect Square](Easy/0367-valid-perfect-square/) | `Easy` | [`Java`](Easy/0367-valid-perfect-square/valid-perfect-square.java) |
 | 374 | [Guess Number Higher Or Lower](Easy/0374-guess-number-higher-or-lower/) | `Easy` | [`Java`](Easy/0374-guess-number-higher-or-lower/guess-number-higher-or-lower.java) |
 | 387 | [First Unique Character In A String](Easy/0387-first-unique-character-in-a-string/) | `Easy` | [`Java`](Easy/0387-first-unique-character-in-a-string/first-unique-character-in-a-string.java) |
