@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AARYANG0SWAMI/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-40-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-41-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -21,6 +21,7 @@
 | 66 | [Plus One](Easy/0066-plus-one/) | `Easy` | [`Java`](Easy/0066-plus-one/plus-one.java) |
 | 69 | [Sqrtx](Easy/0069-sqrtx/) | `Easy` | [`Java`](Easy/0069-sqrtx/sqrtx.java) |
 | 70 | [Climbing Stairs](Easy/0070-climbing-stairs/) | `Easy` | [`Java`](Easy/0070-climbing-stairs/climbing-stairs.java) |
+| 74 | [Search A 2d Matrix](Medium/0074-search-a-2d-matrix/) | `Medium` | [`Java`](Medium/0074-search-a-2d-matrix/search-a-2d-matrix.java) |
 | 115 | [Distinct Subsequences](Hard/0115-distinct-subsequences/) | `Hard` | [`Java`](Hard/0115-distinct-subsequences/distinct-subsequences.java) |
 | 136 | [Single Number](Easy/0136-single-number/) | `Easy` | [`Java`](Easy/0136-single-number/single-number.java) |
 | 153 | [Find Minimum In Rotated Sorted Array](Medium/0153-find-minimum-in-rotated-sorted-array/) | `Medium` | [`Java`](Medium/0153-find-minimum-in-rotated-sorted-array/find-minimum-in-rotated-sorted-array.java) |
