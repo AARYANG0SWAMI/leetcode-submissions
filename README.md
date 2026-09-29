@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AARYANG0SWAMI/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-44-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-45-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -43,6 +43,7 @@
 | 1351 | [Count Negative Numbers In A Sorted Matrix](Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | `Easy` | [`Java`](Easy/1351-count-negative-numbers-in-a-sorted-matrix/count-negative-numbers-in-a-sorted-matrix.java) |
 | 1431 | [Kids With The Greatest Number Of Candies](Easy/1431-kids-with-the-greatest-number-of-candies/) | `Easy` | [`Java`](Easy/1431-kids-with-the-greatest-number-of-candies/kids-with-the-greatest-number-of-candies.java) |
 | 1539 | [Kth Missing Positive Number](Easy/1539-kth-missing-positive-number/) | `Easy` | [`Java`](Easy/1539-kth-missing-positive-number/kth-missing-positive-number.java) |
+| 1614 | [Maximum Nesting Depth Of The Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) | `Easy` | [`Java`](Easy/1614-maximum-nesting-depth-of-the-parentheses/maximum-nesting-depth-of-the-parentheses.java) |
 | 1672 | [Richest Customer Wealth](Easy/1672-richest-customer-wealth/) | `Easy` | [`Java`](Easy/1672-richest-customer-wealth/richest-customer-wealth.java) |
 | 1920 | [Build Array From Permutation](Easy/1920-build-array-from-permutation/) | `Easy` | [`Java`](Easy/1920-build-array-from-permutation/build-array-from-permutation.java) |
 | 1929 | [Concatenation Of Array](Easy/1929-concatenation-of-array/) | `Easy` | [`Java`](Easy/1929-concatenation-of-array/concatenation-of-array.java) |
