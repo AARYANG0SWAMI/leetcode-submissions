@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AARYANG0SWAMI/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-45-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-46-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -49,6 +49,7 @@
 | 1929 | [Concatenation Of Array](Easy/1929-concatenation-of-array/) | `Easy` | [`Java`](Easy/1929-concatenation-of-array/concatenation-of-array.java) |
 | 2011 | [Final Value Of Variable After Performing Operations](Easy/2011-final-value-of-variable-after-performing-operations/) | `Easy` | [`Java`](Easy/2011-final-value-of-variable-after-performing-operations/final-value-of-variable-after-performing-operations.java) |
 | 2235 | [Add Two Integers](Easy/2235-add-two-integers/) | `Easy` | [`C++`](Easy/2235-add-two-integers/add-two-integers.cpp) |
+| 2267 | [Check If There Is A Valid Parentheses String Path](Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | `Hard` | [`Java`](Hard/2267-check-if-there-is-a-valid-parentheses-string-path/check-if-there-is-a-valid-parentheses-string-path.java) |
 | 2351 | [First Letter To Appear Twice](Easy/2351-first-letter-to-appear-twice/) | `Easy` | [`Java`](Easy/2351-first-letter-to-appear-twice/first-letter-to-appear-twice.java) |
 | 2469 | [Convert The Temperature](Easy/2469-convert-the-temperature/) | `Easy` | [`Java`](Easy/2469-convert-the-temperature/convert-the-temperature.java) |
 | 3483 | [Unique 3 Digit Even Numbers](Easy/3483-unique-3-digit-even-numbers/) | `Easy` | [`Java`](Easy/3483-unique-3-digit-even-numbers/unique-3-digit-even-numbers.java) |
