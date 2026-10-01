@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AARYANG0SWAMI/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-46-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-47-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -35,6 +35,7 @@
 | 374 | [Guess Number Higher Or Lower](Easy/0374-guess-number-higher-or-lower/) | `Easy` | [`Java`](Easy/0374-guess-number-higher-or-lower/guess-number-higher-or-lower.java) |
 | 387 | [First Unique Character In A String](Easy/0387-first-unique-character-in-a-string/) | `Easy` | [`Java`](Easy/0387-first-unique-character-in-a-string/first-unique-character-in-a-string.java) |
 | 412 | [Fizz Buzz](Easy/0412-fizz-buzz/) | `Easy` | [`Java`](Easy/0412-fizz-buzz/fizz-buzz.java) |
+| 643 | [Maximum Average Subarray I](Easy/0643-maximum-average-subarray-i/) | `Easy` | [`Java`](Easy/0643-maximum-average-subarray-i/maximum-average-subarray-i.java) |
 | 704 | [Binary Search](Easy/0704-binary-search/) | `Easy` | [`Java`](Easy/0704-binary-search/binary-search.java) |
 | 852 | [Peak Index In A Mountain Array](Medium/0852-peak-index-in-a-mountain-array/) | `Medium` | [`Java`](Medium/0852-peak-index-in-a-mountain-array/peak-index-in-a-mountain-array.java) |
 | 1281 | [Subtract The Product And Sum Of Digits Of An Integer](Easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | `Easy` | [`Java`](Easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer/subtract-the-product-and-sum-of-digits-of-an-integer.java) |
