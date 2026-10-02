@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AARYANG0SWAMI/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-47-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-48-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -26,6 +26,7 @@
 | 136 | [Single Number](Easy/0136-single-number/) | `Easy` | [`Java`](Easy/0136-single-number/single-number.java) |
 | 153 | [Find Minimum In Rotated Sorted Array](Medium/0153-find-minimum-in-rotated-sorted-array/) | `Medium` | [`Java`](Medium/0153-find-minimum-in-rotated-sorted-array/find-minimum-in-rotated-sorted-array.java) |
 | 162 | [Find Peak Element](Medium/0162-find-peak-element/) | `Medium` | [`Java`](Medium/0162-find-peak-element/find-peak-element.java) |
+| 209 | [Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/) | `Medium` | [`Java`](Medium/0209-minimum-size-subarray-sum/minimum-size-subarray-sum.java) |
 | 240 | [Search A 2d Matrix Ii](Medium/0240-search-a-2d-matrix-ii/) | `Medium` | [`Java`](Medium/0240-search-a-2d-matrix-ii/search-a-2d-matrix-ii.java) |
 | 242 | [Valid Anagram](Easy/0242-valid-anagram/) | `Easy` | [`Java`](Easy/0242-valid-anagram/valid-anagram.java) |
 | 258 | [Add Digits](Easy/0258-add-digits/) | `Easy` | [`Java`](Easy/0258-add-digits/add-digits.java) |
