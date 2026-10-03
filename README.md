@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AARYANG0SWAMI/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-48-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-49-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -12,6 +12,7 @@
 | # | Problem Name | Difficulty | Solutions |
 | :--- | :--- | :--- | :--- |
 | 1 | [Two Sum](Easy/0001-two-sum/) | `Easy` | [`Java`](Easy/0001-two-sum/two-sum.java) |
+| 3 | [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) | `Medium` | [`Java`](Medium/0003-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.java) |
 | 9 | [Palindrome Number](Easy/0009-palindrome-number/) | `Easy` | [`Java`](Easy/0009-palindrome-number/palindrome-number.java) |
 | 14 | [Longest Common Prefix](Easy/0014-longest-common-prefix/) | `Easy` | [`Java`](Easy/0014-longest-common-prefix/longest-common-prefix.java) |
 | 26 | [Remove Duplicates From Sorted Array](Easy/0026-remove-duplicates-from-sorted-array/) | `Easy` | [`Java`](Easy/0026-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.java) |
