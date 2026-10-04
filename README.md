@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AARYANG0SWAMI/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-49-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-50-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -42,6 +42,7 @@
 | 852 | [Peak Index In A Mountain Array](Medium/0852-peak-index-in-a-mountain-array/) | `Medium` | [`Java`](Medium/0852-peak-index-in-a-mountain-array/peak-index-in-a-mountain-array.java) |
 | 1281 | [Subtract The Product And Sum Of Digits Of An Integer](Easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | `Easy` | [`Java`](Easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer/subtract-the-product-and-sum-of-digits-of-an-integer.java) |
 | 1295 | [Find Numbers With Even Number Of Digits](Easy/1295-find-numbers-with-even-number-of-digits/) | `Easy` | [`Java`](Easy/1295-find-numbers-with-even-number-of-digits/find-numbers-with-even-number-of-digits.java) |
+| 1317 | [Convert Integer To The Sum Of Two No Zero Integers](Easy/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) | `Easy` | [`Java`](Easy/1317-convert-integer-to-the-sum-of-two-no-zero-integers/convert-integer-to-the-sum-of-two-no-zero-integers.java) |
 | 1342 | [Number Of Steps To Reduce A Number To Zero](Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) | `Easy` | [`Java`](Easy/1342-number-of-steps-to-reduce-a-number-to-zero/number-of-steps-to-reduce-a-number-to-zero.java) |
 | 1351 | [Count Negative Numbers In A Sorted Matrix](Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | `Easy` | [`Java`](Easy/1351-count-negative-numbers-in-a-sorted-matrix/count-negative-numbers-in-a-sorted-matrix.java) |
 | 1431 | [Kids With The Greatest Number Of Candies](Easy/1431-kids-with-the-greatest-number-of-candies/) | `Easy` | [`Java`](Easy/1431-kids-with-the-greatest-number-of-candies/kids-with-the-greatest-number-of-candies.java) |
