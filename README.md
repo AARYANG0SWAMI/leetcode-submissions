@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AARYANG0SWAMI/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-52-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-53-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -42,6 +42,7 @@
 | 704 | [Binary Search](Easy/0704-binary-search/) | `Easy` | [`Java`](Easy/0704-binary-search/binary-search.java) |
 | 852 | [Peak Index In A Mountain Array](Medium/0852-peak-index-in-a-mountain-array/) | `Medium` | [`Java`](Medium/0852-peak-index-in-a-mountain-array/peak-index-in-a-mountain-array.java) |
 | 856 | [Score Of Parentheses](Medium/0856-score-of-parentheses/) | `Medium` | [`Java`](Medium/0856-score-of-parentheses/score-of-parentheses.java) |
+| 1011 | [Capacity To Ship Packages Within D Days](Medium/1011-capacity-to-ship-packages-within-d-days/) | `Medium` | [`Java`](Medium/1011-capacity-to-ship-packages-within-d-days/capacity-to-ship-packages-within-d-days.java) |
 | 1281 | [Subtract The Product And Sum Of Digits Of An Integer](Easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | `Easy` | [`Java`](Easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer/subtract-the-product-and-sum-of-digits-of-an-integer.java) |
 | 1295 | [Find Numbers With Even Number Of Digits](Easy/1295-find-numbers-with-even-number-of-digits/) | `Easy` | [`Java`](Easy/1295-find-numbers-with-even-number-of-digits/find-numbers-with-even-number-of-digits.java) |
 | 1317 | [Convert Integer To The Sum Of Two No Zero Integers](Easy/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) | `Easy` | [`Java`](Easy/1317-convert-integer-to-the-sum-of-two-no-zero-integers/convert-integer-to-the-sum-of-two-no-zero-integers.java) |
